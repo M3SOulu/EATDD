@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,500,700,300);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300);
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.wrapper {
+  position: relative;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -50px;
+}
+
+.push {
+  height: 50px;
+}
+
+header.site {
+  color: #fff;
+  background: #241668;
+  background: linear-gradient(-45deg, #241668 0%, #682a84 60%, #d26578 100%);
+  padding: 10px 0;
+}
+
+header.site h1 {
+  font-size: 24px;
+  margin-top: 7px;
+}
+
+header.site h1 a {
+  color: #fff;
+}
+
+header.site h1 a:hover,
+header.site h1 a:active {
+  text-decoration: none;
+}
+
+header.site nav {
+  float: right;
+  padding-top: 10px;
+}
+
+header.site nav a {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 16px;
+  margin: 0 8px;
+  font-weight: 300;
+}
+
+header.site nav a:last-child {
+  margin-right: 0;
+}
+
+article {
+  margin-bottom: 20px;
+}
+
+.media .media-body {
+  padding-top: 30px;
+}
+
+footer {
+  border-top: 1px solid #e7e7e7;
+  text-align: center;
+  height: 50px;
+  padding-top: 14px;
+  background-color: #fff;
+  position: relative;
+}
+
+footer .bullet {
+  color: #777;
+  margin: 0 10px;
+}
+
+.page-header {
+  text-align: center;
+  background-color: #f6f6f6;
+  margin-top: 0;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.page-header h2 {
+  font-family: "Roboto Slab", serif;
+  font-size: 48px;
+  font-weight: 300;
+  margin: 50px 0;
+
+}

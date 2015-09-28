@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <header class="site">
+        <div class="container">
+          {% include menu.html %}
+          <h1><a href="/">VALUE</a></h1>
+        </div>
+      </header>
+      <main>
+        {{ content }}
+      </main>
+      <div class="push"></div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

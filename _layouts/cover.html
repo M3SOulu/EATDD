@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <header class="cover">
+        <div class="menu">
+          <div class="container">
+            {% include menu.html %}
+          </div>
+        </div>
+        <div class="container masthead">
+          <div class="row">
+            <div class="col-sm-6 title">
+              <h1>VALUE</h1>
+              <h2>Improving decision-making relating to software-intensive products and services development</h2>
+            </div>
+            <div class="col-sm-6 video">
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/BNDxK25vb9E" frameborder="0" allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="row logos">
+            <div class="col-xs-4">
+              <img src="/img/tekes.png" alt="Tekes">
+            </div>
+            <div class="col-xs-4">
+              <img src="/img/oulu.png" alt="University of Oulu">
+            </div>
+            <div class="col-xs-4">
+              <img src="/img/fidipro.png" alt="FiDiPro">
+            </div>
+          </div>
+        </div>
+      </header>
+      <main>
+        {{ content }}
+      </main>
+      <div class="push"></div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

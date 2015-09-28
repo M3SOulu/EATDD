@@ -1,0 +1,130 @@
+body {
+  color: #555;
+}
+
+.cover {
+  color: #fff;
+  background: #682a84;
+  background: -moz-linear-gradient(top, #241668 0%, #682a84 41%, #d26578 80%, #ffa376 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #241668), color-stop(41%, #682a84), color-stop(80%, #d26578), color-stop(100%, #ffa376));
+  background: -webkit-linear-gradient(top, #241668 0%, #682a84 41%, #d26578 80%, #ffa376 100%);
+  background: -o-linear-gradient(top, #241668 0%, #682a84 41%, #d26578 80%, #ffa376 100%);
+  background: -ms-linear-gradient(top, #241668 0%, #682a84 41%, #d26578 80%, #ffa376 100%);
+  background: linear-gradient(to bottom, #241668 0%, #682a84 41%, #d26578 80%, #ffa376 100%);
+}
+
+.cover {
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.cover .menu nav {
+  padding-top: 20px;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .cover .menu nav {
+    text-align: right;
+  }
+
+  .cover .menu nav a:last-child {
+    margin-right: 0;
+  }
+}
+
+.cover .menu nav a {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 16px;
+  margin: 0 8px;
+  font-weight: 300;
+}
+
+.cover .menu nav a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+
+.cover .masthead {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.cover .masthead h1 {
+  font-size: 50px;
+  margin-top: 0;
+}
+
+.cover .masthead h2 {
+  font-weight: 100;
+}
+
+.cover .masthead .title {
+  text-align: center;
+  margin-top: 0;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .cover .masthead .title {
+    text-align: left;
+    padding-top: 50px;
+  }
+}
+
+.cover .masthead .logos {
+  padding-top: 40px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.cover .masthead .logos img {
+  height: 20px;
+}
+
+@media (min-width: 768px) {
+  .cover .masthead .logos img {
+    height: 40px;
+  }
+}
+
+section {
+  padding: 60px 0;
+  text-align: center;
+  border-bottom: 1px solid #e7e7e7;
+  font-weight: 300;
+}
+
+main section:last-child {
+  border-bottom: 0 none;
+}
+
+section h2 {
+  margin-top: 0;
+  font-size: 36px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+section h3 {  
+  font-weight: 400;
+}
+
+section .fa {
+  color: #bbb;
+  display: block;
+  font-size: 50px;
+  margin: .4em 0;
+}
+
+.goal {
+  font-size: 24px;
+}
+
+.pathway {
+  background-color: #f6f6f6;
+  font-size: 16px;
+}
+
+.pathway p {
+}
