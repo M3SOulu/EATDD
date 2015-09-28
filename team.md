@@ -7,7 +7,7 @@ permalink: /team/
 <div class="media">
   <div class="media-left">
     <a href="mailto:burak.turhan@oulu.fi">
-      <img src="/img/burak.jpg" alt="Burak Turhan" class="media-object img-circle">
+      <img src="{{ "/img/burak.jpg" | prepend: site.baseurl }}" alt="Burak Turhan" class="media-object img-circle">
     </a>
   </div>
   <div class="media-body">
@@ -19,7 +19,7 @@ permalink: /team/
 <div class="media">
   <div class="media-left">
     <a href="mailto:emilia.mendes@oulu.fi">
-      <img src="/img/emilia.jpg" alt="Emilia Mendes" class="media-object img-circle">
+      <img src="{{ "/img/emilia.jpg" | prepend: site.baseurl }}" alt="Emilia Mendes" class="media-object img-circle">
     </a>
   </div>
   <div class="media-body">
@@ -31,7 +31,7 @@ permalink: /team/
 <div class="media">
   <div class="media-left">
     <a href="mailto:pilar.rodriguez@oulu.fi">
-      <img src="/img/pilar.jpg" alt="Pilar Rodriguez" class="media-object img-circle">
+      <img src="{{ "/img/pilar.jpg" | prepend: site.baseurl }}" alt="Pilar Rodriguez" class="media-object img-circle">
     </a>
   </div>
   <div class="media-body">
@@ -43,7 +43,7 @@ permalink: /team/
 <div class="media">
   <div class="media-left">
     <a href="mailto:mohamed.atoui@oulu.fi">
-      <img src="/img/amine.jpg" alt="Amine Atoui" class="media-object img-circle">
+      <img src="{{ "/img/amine.jpg" | prepend: site.baseurl }}" alt="Amine Atoui" class="media-object img-circle">
     </a>
   </div>
   <div class="media-body">
@@ -55,7 +55,7 @@ permalink: /team/
 <div class="media">
   <div class="media-left">
     <a href="mailto:vitor.freitas@oulu.fi">
-      <img src="/img/vitor.jpg" alt="Vitor Freitas" class="media-object img-circle">
+      <img src="{{ "/img/vitor.jpg" | prepend: site.baseurl }}" alt="Vitor Freitas" class="media-object img-circle">
     </a>
   </div>
   <div class="media-body">
