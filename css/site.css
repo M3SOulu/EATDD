@@ -43,6 +43,13 @@ header.site h1 a:active {
   text-decoration: none;
 }
 
+header.site h1 .page-title {
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.8);
+  margin-left: 5px;
+  font-weight: 400;
+}
+
 header.site nav {
   float: right;
   padding-top: 10px;
@@ -61,7 +68,7 @@ header.site nav a:last-child {
 }
 
 article {
-  margin-bottom: 20px;
+  margin: 40px 0 20px;
 }
 
 .media .media-body {
@@ -95,4 +102,8 @@ footer .bullet {
   font-weight: 300;
   margin: 50px 0;
 
+}
+
+.team .row {
+  margin-bottom: 30px;
 }

@@ -17,27 +17,21 @@ body {
   border-bottom: 1px solid #e7e7e7;
 }
 
-.cover .menu nav {
-  padding-top: 20px;
-  text-align: center;
+.cover .menu {
+  background: #4D347B;
+  padding: 15px 0;
 }
 
-@media (min-width: 768px) {
-  .cover .menu nav {
-    text-align: right;
-  }
-
-  .cover .menu nav a:last-child {
-    margin-right: 0;
-  }
+.cover .menu nav {
+  text-align: center;
 }
 
 .cover .menu nav a {
   text-transform: uppercase;
   color: #fff;
   font-size: 16px;
-  margin: 0 8px;
-  font-weight: 300;
+  margin: 0 16px;
+  font-weight: 400;
 }
 
 .cover .menu nav a:hover {
@@ -46,41 +40,64 @@ body {
 }
 
 .cover .masthead {
-  padding-top: 40px;
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 .cover .masthead h1 {
-  font-size: 50px;
+  font-size: 28px;
   margin-top: 0;
 }
 
-.cover .masthead h2 {
-  font-weight: 100;
+.cover .masthead h1 small {
+  text-transform: uppercase;
+  color: #fff;
+  vertical-align: middle;
+  font-size: 50%;
+  letter-spacing: 2px;
+  font-weight: 500;
+  margin-left: 10px;
+}
+
+.cover .masthead .featured {
+  color: #ffa376;
 }
 
 .cover .masthead .title {
   text-align: center;
   margin-top: 0;
-  padding-bottom: 20px;
 }
 
 .cover .masthead .video {
+  margin-top: 30px;
   border-radius: 5px;
   background-color: rgba(0,0,0,0.2);
   height: 315px;
   display: inline-block;
 }
 
+.cover .cover-bg-img {
+  width: 100%;
+}
+
+.cover .main-goal h2 {
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+.cover .main-goal em {
+  font-size: 18px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+}
+
 @media (min-width: 768px) {
   .cover .masthead .title {
     text-align: left;
-    padding-top: 50px;
   }
 }
 
 .cover .masthead .logos {
-  padding-top: 40px;
   text-align: center;
   vertical-align: middle;
 }
@@ -97,7 +114,6 @@ body {
 
 section {
   padding: 60px 0;
-  text-align: center;
   border-bottom: 1px solid #e7e7e7;
   font-weight: 300;
 }
@@ -120,8 +136,8 @@ section h3 {
 section .fa {
   color: #bbb;
   display: block;
-  font-size: 50px;
-  margin: .4em 0;
+  font-size: 70px;
+  margin-top: 100px;
 }
 
 .goal {
@@ -129,9 +145,18 @@ section .fa {
 }
 
 .pathway {
-  background-color: #f6f6f6;
-  font-size: 16px;
+  background: linear-gradient(90deg, #fff 50%, #f6f6f6 50%);
+  font-size: 18px;
 }
 
-.pathway p {
+.pathway h3 {
+  margin: 40px 0 30px;
+}
+
+.pathway .row {
+  margin-bottom: 30px;
+}
+
+.pathway .frame {
+  width: 100%;
 }

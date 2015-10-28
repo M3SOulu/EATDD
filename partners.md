@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Business Partners
+title: Partners
 permalink: /partners/
 ---

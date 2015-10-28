@@ -4,16 +4,26 @@
   <body>
     <div class="wrapper">
       <header class="cover">
-        <div class="menu">
-          <div class="container">
-            {% include menu.html %}
-          </div>
-        </div>
         <div class="container masthead">
           <div class="row">
-            <div class="col-sm-6 title">
-              <h1>VALUE</h1>
-              <h2>Improving decision-making relating to software-intensive products and services development</h2>
+            <div class="col-sm-12 title">
+              <h1>
+                VALUE
+                <small>Impro<span class="featured">v</span>ing decision-m<span class="featured">a</span>king re<span class="featured">l</span>ating to software-intensive prod<span class="featured">u</span>cts and s<span class="featured">e</span>rvices development</small>
+              </h1>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+              <div class="main-goal text-center">
+                <h2>Our Main Goal is…</h2>
+                <em>"To provide a mechanism for companies to forecast the overall value associated with a decision relating to software/product management and development."</em>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-6">
+              <img src="{{ "/img/cover_bg.png" | prepend: site.baseurl }}" alt="Collaboration" class="cover-bg-img">
             </div>
             <div class="col-sm-6 video text-center">
               <em style="margin-top: 140px; display: inline-block; font-size: 18px; font-weight: 300;">Video placeholder</em>
@@ -29,6 +39,11 @@
             <div class="col-xs-4">
               <img src="{{ "/img/fidipro.png" | prepend: site.baseurl }}" alt="FiDiPro">
             </div>
+          </div>
+        </div>
+        <div class="menu">
+          <div class="container">
+            {% include menu.html %}
           </div>
         </div>
       </header>
