@@ -89,21 +89,20 @@ footer .bullet {
   margin: 0 10px;
 }
 
-.page-header {
-  text-align: center;
-  background-color: #f6f6f6;
-  margin-top: 0;
-  border-bottom: 1px solid #e7e7e7;
-}
-
-.page-header h2 {
-  font-family: "Roboto Slab", serif;
-  font-size: 48px;
-  font-weight: 300;
-  margin: 50px 0;
-
-}
-
 .team .row {
   margin-bottom: 30px;
+}
+
+.publications {
+  font-size: 16px;
+  color: #777;
+}
+
+.publications .title {
+  color: #333;
+  text-decoration: underline;
+}
+
+h2.page-header {
+  color: #555;
 }

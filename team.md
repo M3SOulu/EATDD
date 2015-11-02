@@ -15,7 +15,7 @@ permalink: /team/
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Emilia Mendes <small>Project Leader</small></h4>
+          <h4 class="media-heading">Emilia Mendes <small>Project Manager</small></h4>
           <a href="mailto:emilia.mendes@oulu.fi">emilia.mendes@oulu.fi</a>
         </div>
       </div>
@@ -28,7 +28,7 @@ permalink: /team/
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Burak Turhan <small>Project Manager</small></h4>
+          <h4 class="media-heading">Burak Turhan <small>Project Leader</small></h4>
           <a href="mailto:burak.turhan@oulu.fi">burak.turhan@oulu.fi</a>
         </div>
       </div>
