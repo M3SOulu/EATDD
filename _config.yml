@@ -5,7 +5,7 @@ description: > # The main goal of the VALUE project is to provide a mechanism
   for companies to forecast the overall value associated with a decision 
   relating to software/product management and development.
 
-baseurl: "/value/"
-url: "http://unioulu-tol.github.io"
+baseurl: ""
+url: "http://valueproject.fi"
 
 markdown: kramdown
