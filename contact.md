@@ -74,8 +74,8 @@ permalink: /contact/
               'from_email': from_email,
               'to': [
                   {
-                    'email': 'emilia.mendes@oulu.fi',
-                    'name': 'Emilia Mendes',
+                    'email': 'burak.turhan@oulu.fi',
+                    'name': 'Burak Turhan',
                     'type': 'to'
                   }
                 ],

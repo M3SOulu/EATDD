@@ -10,74 +10,44 @@ permalink: /team/
     <div class="col-sm-6">
       <div class="media">
         <div class="media-left">
-          <a href="mailto:emilia.mendes@oulu.fi">
-            <img src="{{ "/img/emilia.jpg" | prepend: site.baseurl }}" alt="Emilia Mendes" class="media-object img-circle">
-          </a>
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">Emilia Mendes <small>FiDiPro Professor and Project Manager</small></h4>
-          <a href="mailto:emilia.mendes@oulu.fi">emilia.mendes@oulu.fi</a>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-6">
-      <div class="media">
-        <div class="media-left">
           <a href="mailto:burak.turhan@oulu.fi">
             <img src="{{ "/img/burak.jpg" | prepend: site.baseurl }}" alt="Burak Turhan" class="media-object img-circle">
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Burak Turhan <small>Scientific Director</small></h4>
+          <h4 class="media-heading">Burak Turhan <small>Scientific director</small></h4>
           <a href="mailto:burak.turhan@oulu.fi">burak.turhan@oulu.fi</a>
         </div>
       </div>
     </div>
+    <div class="col-sm-6">
+      <div class="media">
+        <div class="media-left">
+          <a href="mailto:davide.fucci@oulu.fi">
+            <img src="{{ "/img/davide.jpg" | prepend: site.baseurl }}" alt="Davide Fucci" class="media-object img-circle">
+          </a>
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Davide Fucci <small>Ph.D. student</small></h4>
+          <a href="mailto:davide.fucci@oulu.fi">davide.fucci@oulu.fi</a>
+        </div>
+      </div>
+    </div>
   </div>
 
   <div class="row">
     <div class="col-sm-6">
       <div class="media">
         <div class="media-left">
-          <a href="mailto:pilar.rodriguez@oulu.fi">
-            <img src="{{ "/img/pilar.jpg" | prepend: site.baseurl }}" alt="Pilar Rodriguez" class="media-object img-circle">
+          <a href="mailto:itir.karac@oulu.fi">
+            <img src="{{ "/img/itir.jpeg" | prepend: site.baseurl }}" alt="Itir Karac" class="media-object img-circle">
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Pilar Rodriguez <small>Postdoctoral Researcher</small></h4>
-          <a href="mailto:pilar.rodriguez@oulu.fi">pilar.rodriguez@oulu.fi</a>
+          <h4 class="media-heading">Itir Karac <small>Ph.D. student</small></h4>
+          <a href="mailto:itir.karac@oulu.fi">itir.karac@oulu.fi</a>
         </div>
       </div>
     </div>
-    <div class="col-sm-6">
-      <div class="media">
-        <div class="media-left">
-          <a href="mailto:mohamed.atoui@oulu.fi">
-            <img src="{{ "/img/amine.jpg" | prepend: site.baseurl }}" alt="Amine Atoui" class="media-object img-circle">
-          </a>
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">Amine Atoui <small>Postdoctoral Researcher</small></h4>
-          <a href="mailto:mohamed.atoui@oulu.fi">mohamed.atoui@oulu.fi</a>
-        </div>
-      </div>    
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-12">
-      <div class="media">
-        <div class="media-left">
-          <a href="mailto:vitor.freitas@oulu.fi">
-            <img src="{{ "/img/vitor.jpg" | prepend: site.baseurl }}" alt="Vitor Freitas" class="media-object img-circle">
-          </a>
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">Vitor Freitas <small>PhD Student</small></h4>
-          <a href="mailto:vitor.freitas@oulu.fi">vitor.freitas@oulu.fi</a>
-        </div>
-      </div>
-    </div>
-  </div>
 
 </div>

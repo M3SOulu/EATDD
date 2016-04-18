@@ -11,20 +11,6 @@ permalink: /partners/
     <div class="col-sm-6">
       <div class="media">
         <div class="media-left">
-          <a href="http://bittium.fi" target="_blank">
-            <img class="media-object" src="{{ "/img/bittium_1.png" | prepend: site.baseurl }}" alt="Bittium">
-          </a>
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">Bittium</h4>
-          <a href="http://bittium.fi" target="_blank">http://bittium.fi</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="col-sm-6">
-      <div class="media">
-        <div class="media-left">
           <a href="http://f-secure.fi" target="_blank">
             <img class="media-object" src="{{ "/img/fsecure_1.png" | prepend: site.baseurl }}" alt="F-Secure">
           </a>
@@ -35,67 +21,45 @@ permalink: /partners/
         </div>
       </div>
     </div>
+    <div class="col-sm-6">
+      <div class="media">
+        <div class="media-left">
+          <a href="http://playtech.com" target="_blank">
+            <img class="media-object" src="{{ "/img/playtech.png" | prepend: site.baseurl }}" alt="PlayTech">
+          </a>
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">PlayTech</h4>
+          <a href="http://playtech.com" target="_blank">http://playtech.com</a>
+        </div>
+      </div>
   </div>
-
+  </div>
+  <h2 class="page-header" style="margin-top: 80px">Collaborations</h2>
   <div class="row">
     <div class="col-sm-6">
       <div class="media">
         <div class="media-left">
-          <a href="http://ericsson.com" target="_blank">
-            <img class="media-object" src="{{ "/img/ericsson_1.png" | prepend: site.baseurl }}" alt="Ericsson">
+          <a href="http://www.unibas.it" target="_blank">
+            <img class="media-object" src="{{ "/img/unibas.png" | prepend: site.baseurl }}" alt="UniBas">
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Ericsson</h4>
-          <a href="http://ericsson.com" target="_blank">http://ericsson.com</a>
+          <h4 class="media-heading">Universit&agrave; della Basilicata</h4>
+          <a href="http://www.unibas.it" target="_blank">www.unibas.it</a>
         </div>
       </div>
     </div>
-
     <div class="col-sm-6">
       <div class="media">
         <div class="media-left">
-          <a href="http://invenco.fi" target="_blank">
-            <img class="media-object" src="{{ "/img/invenco_1.png" | prepend: site.baseurl }}" alt="Invenco">
+          <a href="http://www.sdu.dk" target="_blank">
+            <img class="media-object" src="{{ "/img/odense.png" | prepend: site.baseurl }}" alt="SDU">
           </a>
-        </div>
+          </div>
         <div class="media-body">
-          <h4 class="media-heading">Invenco</h4>
-          <a href="http://invenco.fi" target="_blank">http://invenco.fi</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-sm-6">
-      <div class="media">
-        <div class="media-left">
-          <a href="http://qentinel.fi" target="_blank">
-            <img class="media-object" src="{{ "/img/qentinel_1.png" | prepend: site.baseurl }}" alt="Qentinel">
-          </a>
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">Qentinel</h4>
-          <a href="http://qentinel.fi" target="_blank">http://qentinel.fi</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <h2 class="page-header" style="margin-top: 20px">Collaborations</h2>
-
-  <div class="row">
-    <div class="col-sm-6">
-      <div class="media">
-        <div class="media-left">
-          <a href="http://www.ufam.edu.br" target="_blank">
-            <img class="media-object" src="{{ "/img/ufam_1.png" | prepend: site.baseurl }}" alt="UFAM">
-          </a>
-        </div>
-        <div class="media-body">
-          <h4 class="media-heading">Universidade Federal do Amazonas</h4>
-          <a href="http://www.ufam.edu.br" target="_blank">http://www.ufam.edu.br</a>
+          <h4 class="media-heading">Univesity of Southern Denmark</h4>
+          <a href="http://www.sdu.dk" target="_blank">www.sdu.dk</a>
         </div>
       </div>
     </div>
