@@ -15,7 +15,7 @@ permalink: /team/
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Burak Turhan <small>Scientific director</small></h4>
+          <h4 class="media-heading">Burak Turhan <small>Principle Investigator</small></h4>
           <a href="mailto:burak.turhan@oulu.fi">burak.turhan@oulu.fi</a>
         </div>
       </div>
