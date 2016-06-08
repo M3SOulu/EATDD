@@ -56,7 +56,7 @@ permalink: /collaborations/
           </a>
           </div>
         <div class="media-body">
-          <h4 class="media-heading">CMU, Silicon Valley</h4>
+          <h4 class="media-heading">Carnegie Mellon University Silicon Valley</h4>
           <a href="http://www.sdu.dk" target="_blank">www.cmu.edu/silicon-valley</a>
         </div>
       </div>
