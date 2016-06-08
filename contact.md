@@ -40,7 +40,7 @@ permalink: /contact/
     $("#id_send").click(function () {
       var from_email = $("#id_email").val();
       var from_name = $("#id_name").val().length > 0 ? $("#id_name").val() : $("#id_email").val();
-      var subject = '[VALUE Project Contact] ' + $("#id_subject").val();
+      var subject = '[EATDD Project Contact] ' + $("#id_subject").val();
       var message = $("#id_message").val();
 
       var errors = '';
