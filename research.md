@@ -29,9 +29,7 @@ permalink: /research/
       D. Fucci, B. Turhan and M. Oivo, <span class="title">“Factors Impacting Test-driven Development: Initial Results from an Enhanced Replication”</span>, in Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering (EASE'14 Short Paper), 2014. <small><a href="http://dx.doi.org/10.1145/2601248.2601272">PDF <span class="fa fa-external-link"></span></a></small>
     </li>
   </ul>
-</div>
 
-<div class="publications">
   <h2 class="page-header">Related Publications</h2>
   <ul>
     <li>
