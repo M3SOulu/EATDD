@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Partners
-permalink: /partners/
+title: Collaborations
+permalink: /collaborations/
 ---
 
 <div class="partners">
