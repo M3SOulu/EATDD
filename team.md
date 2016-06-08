@@ -30,7 +30,7 @@ permalink: /team/
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Davide Fucci <small>Ph.D.</small></h4>
+          <h4 class="media-heading">Davide Fucci <small>Postdoc</small></h4>
           <a href="mailto:davide.fucci@oulu.fi">davide.fucci@oulu.fi</a>
         </div>
       </div>
@@ -46,7 +46,7 @@ permalink: /team/
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Itir Karac <small>Ph.D. student</small></h4>
+          <h4 class="media-heading">Itir Karac <small>Ph.D. candidate</small></h4>
           <a href="mailto:itir.karac@oulu.fi">itir.karac@oulu.fi</a>
         </div>
       </div>
