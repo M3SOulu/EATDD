@@ -20,6 +20,8 @@ permalink: /team/
         </div>
       </div>
     </div>
+  </div>  
+  <div class="row">
     <div class="col-sm-6">
       <div class="media">
         <div class="media-left">
@@ -49,5 +51,5 @@ permalink: /team/
         </div>
       </div>
     </div>
-
+  </div>
 </div>
