@@ -8,7 +8,7 @@ permalink: /contact/
   <h2 class="page-header">Get in touch</h2>
   <div class="row">
     <div class="col-md-6">
-      <form action="https://formspree.io/davide.fucci@oulu.fi" method="POST">
+      <form action="https://formspree.io/burak.turhan@oulu.fi" method="POST">
         <div class="form-group">
           <label for="id_name" class="control-label">Name</label>
           <input type="text" class="form-control" id="id_name" name="name">
