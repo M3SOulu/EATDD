@@ -1,5 +1,5 @@
 title: EATDD
 email: burak.turhan@oulu.fi
 description: Empirical Assessment of Test-Driven Development
-baseurl: /EATDD
+baseurl: /
 markdown: kramdown
