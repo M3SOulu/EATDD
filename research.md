@@ -6,14 +6,19 @@ permalink: /research/
 <div class="publications">
   <h2 class="page-header">Project Publications</h2>
   <ul>
-    <li>
-      D. Fucci, G. Scanniello, S. Romano, M. Shepperd, B. Sigweni, F. Uyaguari, B. Turhan, N. Juristo and M. Oivo, <span class="title">“An External Replication on the Effects of Test-driven Development Using Blind Analysis”</span>, (to appear in) Proceedings of the 10th International Symposium on Empirical Software Engineering and Measurement (ESEM’16), 2016.
+    <li>  D. Fucci, H. Erdogmus, B. Turhan, N. Juristo and M. Oivo, <span class="title">“A Dissection of Test-Driven Development: Does It Really Matter to Test-First or to Test-Last?”</span>, (to appear in) IEEE Transactions on Software Engineering, 2016.
     </li>
     <li>
-      S. Romano, D. Fucci, G. Scanniello, B. Turhan and N. Juristo, <span class="title">“Results from an Ethnographically-informed Study in the Context of Test Driven Development”</span>, (to appear) in Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering (EASE'16), 2016.
+    O. Dieste, A.M. Aranda, F. Uyaguari, B. Turhan, A. T. Misirli, D. Fucci, M. Oivo, N. Juristo, <span class="title">“Empirical Evaluation of the Effects of Experience on Code Quality and Programmer Productivity: An Exploratory Study”,</span> (to appear in) Empirical Software Engineering Journal, 2016.
     </li>
     <li>
-      G. Scanniello, S. Romano, D. Fucci, B. Turhan and N. Juristo,<span class="title"> “Students’ and Professionals’ Perceptions of Test-driven Development: A Focus Group study”</span>, (to appear) in Proceedings of the 31st ACM/SIGAPP Symposium on Applied Computing (ACM SAC'16), 2016
+      D. Fucci, G. Scanniello, S. Romano, M. Shepperd, B. Sigweni, F. Uyaguari, B. Turhan, N. Juristo and M. Oivo, <span class="title">“An External Replication on the Effects of Test-driven Development Using Blind Analysis”</span>, in Proceedings of the 10th International Symposium on Empirical Software Engineering and Measurement (ESEM’16), 2016. <small><a href="http://dl.acm.org/authorize?N13684">PDF <span class="fa fa-external-link"></span></a></small>
+    </li>
+    <li>
+      S. Romano, D. Fucci, G. Scanniello, B. Turhan and N. Juristo, <span class="title">“Results from an Ethnographically-informed Study in the Context of Test Driven Development”</span>, in Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering (EASE'16), 2016. <small><a href="http://dl.acm.org/authorize?N13696">PDF <span class="fa fa-external-link"></span></a></small>
+    </li>
+    <li>
+      G. Scanniello, S. Romano, D. Fucci, B. Turhan and N. Juristo,<span class="title"> “Students’ and Professionals’ Perceptions of Test-driven Development: A Focus Group study”</span>, in Proceedings of the 31st ACM/SIGAPP Symposium on Applied Computing (ACM SAC'16), 2016. <small><a href="http://dl.acm.org/authorize?N13697">PDF <span class="fa fa-external-link"></span></a></small>
     </li>
     <li>
       D. Fucci, B. Turhan, N. Juristo, O. Dieste, A. T. Misirli and M. Oivo, <span class="title">“Towards an Operationalisation of Test-driven Development Skills: An Industrial Empirical Study”</span>, Information and Software Technology Journal, Vol.68, pp.82-97, 2015. <small><a href="http://dx.doi.org/10.1016/j.infsof.2015.08.004">PDF <span class="fa fa-external-link"></span></a></small>
