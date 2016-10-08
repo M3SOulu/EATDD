@@ -30,7 +30,7 @@ permalink: /team/
           </a>
         </div>
         <div class="media-body">
-          <h4 class="media-heading">Davide Fucci <small>Postdoc</small></h4>
+          <h4 class="media-heading">Davide Fucci <small>Postdoctoral Research Fellow</small></h4>
           <a href="mailto:davide.fucci@oulu.fi">davide.fucci@oulu.fi</a>
         </div>
       </div>
