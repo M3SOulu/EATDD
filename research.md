@@ -9,7 +9,7 @@ permalink: /research/
     <li>  D. Fucci, H. Erdogmus, B. Turhan, N. Juristo and M. Oivo, <span class="title">“A Dissection of Test-Driven Development: Does It Really Matter to Test-First or to Test-Last?”</span>, in IEEE Transactions on Software Engineering, 2016. <small><a href="http://dx.doi.org/10.1109/TSE.2016.2616877">PDF <span class="fa fa-external-link"></span></a></small>
     </li>
     <li>
-    A. Tosun, O. Dieste, D. Fucci, S. Vegas, B. Turhan, H. Erdogmus, A. Santos, M. Oivo, K. Toro, J. Jarvinen and N. Juristo, <span class="title">“An Industry Experiment on the Effects of Test-Driven Development on External Quality and Productivity”</span>, (to appear in) Empirical Software Engineering, 2016.
+    A. Tosun, O. Dieste, D. Fucci, S. Vegas, B. Turhan, H. Erdogmus, A. Santos, M. Oivo, K. Toro, J. Jarvinen and N. Juristo, <span class="title">“An Industry Experiment on the Effects of Test-Driven Development on External Quality and Productivity”</span>, Empirical Software Engineering, 2016. <small><a href="http://dx.doi.org/10.1007/s10664-016-9490-0">PDF <span class="fa fa-external-link"></span></a></small>
     </li>
     <li>
     O. Dieste, A.M. Aranda, F. Uyaguari, B. Turhan, A. T. Misirli, D. Fucci, M. Oivo, N. Juristo, <span class="title">“Empirical Evaluation of the Effects of Experience on Code Quality and Programmer Productivity: An Exploratory Study”,</span> (to appear in) Empirical Software Engineering Journal, 2016.
