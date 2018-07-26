@@ -41,10 +41,11 @@ permalink: /research/
       D. Fucci, B. Turhan, N. Juristo, O. Dieste, A. T. Misirli and M. Oivo, <span class="title">“Towards an Operationalisation of Test-driven Development Skills: An Industrial Empirical Study”</span>, Information and Software Technology Journal, Vol.68, pp.82-97, 2015. <small><a href="http://dx.doi.org/10.1016/j.infsof.2015.08.004">PDF <span class="fa fa-external-link"></span></a></small>
     </li>
     <li>
+      D. Fucci, B. Turhan and M. Oivo, <span class="title">“On The Effects of Programming and Testing Skills on External Quality and Productivity in a Test-Driven Development Context”</span>, in Proceedings of the 19th International Conference on Evaluation and Assessment in Software Engineering (EASE'15 Short Paper), 2015. <small><a href="http://dx.doi.org/10.1145/2745802.2745826">PDF <span class="fa fa-external-link"></span></a></small>
+    <li>        
+    <li>
       D. Fucci and B. Turhan, <span class="title">“On The Role of Tests in Test-driven Development: A Differentiated and Partial Replication”</span>, Empirical Software Engineering Journal, Vol.19/2, pp.277-302, 2014. <small><a href="http://dx.doi.org/10.1007/s10664-013-9259-7">PDF <span class="fa fa-external-link"></span></a></small>
     </li>
-      D. Fucci, B. Turhan and M. Oivo, <span class="title">“On The Effects of Programming and Testing Skills on External Quality and Productivity in a Test-Driven Development Context”</span>, in Proceedings of the 19th International Conference on Evaluation and Assessment in Software Engineering (EASE'15 Short Paper), 2015. <small><a href="http://dx.doi.org/10.1145/2745802.2745826">PDF <span class="fa fa-external-link"></span></a></small>
-    <li>
       D. Fucci, B. Turhan and M. Oivo, <span class="title">“Impact of Process Conformance on the Effects of Test-driven Development”</span>, in Proceedings of the 8th International Symposium on Empirical Software Engineering and Measurement (ESEM'14), 2014. <small><a href="http://dx.doi.org/10.1145/2652524.2652526">PDF <span class="fa fa-external-link"></span></a></small><small><a href="https://turhanb.net/publications.html"> / Open Access via https://turhanb.net/publications.html (Search for article title)<span class="fa fa-external-link"></span></a></small>
     </li>
     <li>
