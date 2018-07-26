@@ -5,9 +5,9 @@ permalink: /research/
 ---
 <div class="publications">
   <h2 class="page-header">Project Publications</h2>
-  <ul>  “What Do We (Really) Know about Test-Driven Development?”, IEEE Software
+  <ul> 
     <li>
-    I. Karac and B. Turhan, <span class="title">“What Do We (Really) Know about Test-Driven Development?”</span>, IEEE Softwar, 2018. <small><a href="http://doi.ieeecomputersociety.org/10.1109/MS.2018.2801554">PDF <span class="fa fa-external-link"></span></a></small>  
+    I. Karac and B. Turhan, <span class="title">“What Do We (Really) Know about Test-Driven Development?”</span>, IEEE Software, 2018. <small><a href="http://doi.ieeecomputersociety.org/10.1109/MS.2018.2801554">PDF <span class="fa fa-external-link"></span></a></small>  
     </li>
 
 <li>D. Falessi, N. Juristo, C. Wohlin, B. Turhan, J. Munch, A. Jedlitschka, M. Oivo, <span class="title">“Empirical Software Engineering Experts on the Use of Students and Professionals in Experiments”</span>, Empirical Software Engineering, 2018. <small><a href="https://doi.org/10.1007/s10664-017-9523-3">PDF <span class="fa fa-external-link"></span></a></small> <small><a href="http://rdcu.be/tpxB"> / Open Access <span class="fa fa-external-link"></span></a></small> 
